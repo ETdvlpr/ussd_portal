@@ -1,4 +1,4 @@
-﻿"MSISDN" => "+251910077041" ; phone number sending the request
+﻿"MSISDN" => "+251********" ; phone number sending the request
 
 "SESSION_ID" => "355562002" ; Session identifying the exchange
 
